@@ -543,3 +543,9 @@ iframe {
     width: 1360px;
   }
 }
+
+.mz-profile-dp {
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+}
